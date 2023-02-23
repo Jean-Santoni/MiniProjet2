@@ -1,0 +1,7 @@
+helpers : Déwi Girot et Tristan Rigal
+
+Question 1: il faut utiliser un tableau de type T;
+
+Question 2 : Le premier est un tableau et l'autre est une liste ;
+
+Question 3 : Cela rend le transtypage plus facile entre les différentes implémentations de Liste.
